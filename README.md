@@ -6,5 +6,5 @@ Capturas Aplicación
 ![Principal](/Capturas/main.jpeg)
 ![Unicación](/Capturas/ubicacion.jpeg)
 ![Información del teléfono](/Capturas/telefono.jpeg)
-![Datos de la víctima](/Capturas/DatosVictima.png)
+![Datos de la víctima](/Capturas/DatosVictima2.png)
 
