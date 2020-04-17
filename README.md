@@ -1,0 +1,3 @@
+# HoroscopeLocator
+SIYHE
+Capturas Aplicación
