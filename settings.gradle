@@ -1,0 +1,2 @@
+rootProject.name='Horoscopo'
+include ':app'

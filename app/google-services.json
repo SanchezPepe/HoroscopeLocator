@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559517584746",
+    "firebase_url": "https://informationsecuritymalware.firebaseio.com",
+    "project_id": "informationsecuritymalware",
+    "storage_bucket": "informationsecuritymalware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559517584746:android:424241e9137874ee192913",
+        "android_client_info": {
+          "package_name": "com.sihe.horoscopo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559517584746-mojo3o32lcetjhkckorbahctvu355erv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3myxjZTxoW4jt8Lq2My1uuzqc5Tb2go0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559517584746-mojo3o32lcetjhkckorbahctvu355erv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
